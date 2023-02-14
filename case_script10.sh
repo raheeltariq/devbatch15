@@ -25,3 +25,8 @@ case $choice in
  		echo " NONE of The Above "
  		;;
 esac
+
+echo create new batch file 
+
+echo create linux code
+
